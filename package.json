@@ -1,0 +1,17 @@
+{
+  "name": "factorial_feature",
+  "version": "1.0.0",
+  "description": "Codecademy's JavaScript project.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
